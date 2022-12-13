@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/babybutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/defaultbutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/gamzixml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/roundbutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/screambutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/sirenbutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/study.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/drawable/studyxml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/layout/activity_menu.xml" value="0.2875905797101449" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree/app/src/main/res/layout/activity_splash.xml" value="0.29438405797101447" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/babybutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/correctsoundxml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/defaultbutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/emotionxml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/environmentxml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/gamzixml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/guidexml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/roundbutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/screambutton.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/sensexml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/studyxml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/drawable/trainxml.xml" value="0.1" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_correct.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_get_apiactivity.xml" value="0.1461499493414387" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_guide.xml" value="0.25" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_quest.xml" value="0.22" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_sound.xml" value="0.221875" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_splash.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train.xml" value="0.221875" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train_correct.xml" value="0.25" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train_emotion.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train_environment.xml" value="0.25" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train_exam.xml" value="0.2171875" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train_feeling.xml" value="0.221875" />
+        <entry key="..\:/Users/taemi/AndroidStudioProjects/ListenCareFree1.1.2/app/src/main/res/layout/activity_train_sound.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.182518115942029" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.182518115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
